@@ -1,6 +1,6 @@
 <!-- ANIMAÇÃO DE TEXTO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=Olá!+Desenvolvedor+Full+Stack;React+%7C+TypeScript+%7C+JavaScript+%7C+Vue.js+%7C+Python;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=Olá!+Desenvolvedor+Full+Stack;React+%7C+TypeScript+%7C+JavaScript+%7C+Python;" />
 </p>
 
 ---
