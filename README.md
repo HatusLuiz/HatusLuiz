@@ -56,39 +56,6 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=HatusLuiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatusLuiz&layout=compact&theme=tokyonight"
-/>
-
-</p>
-
----
-
-# 🔥 Streak de Contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=HatusLuiz&theme=tokyonight" />
-</p>
-
----
-
-# 📈 Gráfico de Atividade
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HatusLuiz&theme=tokyo-night" />
-</p>
-
----
 
 # 🚀 Projetos em Destaque
 
