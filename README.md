@@ -52,7 +52,6 @@
 <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual-studio-code"/>
-<img src="https://img.shields.io/badge/AI%20Tools-000?style=for-the-badge&logo=openai"/>
 </p>
 
 ---
